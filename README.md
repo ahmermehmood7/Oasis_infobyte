@@ -72,6 +72,10 @@ The objective of this project was to perform **Exploratory Data Analysis (EDA)**
 1. Clone this repository:  
    ```bash
    git clone https://github.com/ahmermehmood7/Oasis_infobyte.git
-cd Oasis_infobyte
+2. Navigate to the project folder:  
+   ```bash
+   cd Oasis_infobyte
+3.Open the Jupyter Notebook:
+```bash
 jupyter notebook Notebook/infobyte_1.ipynb
 
