@@ -68,6 +68,13 @@ The objective of this project was to perform **Exploratory Data Analysis (EDA)**
 
 ---
 
+## 👨‍💻 Author
+**Ahmer Mehmood**  
+📧 Email: [ahmermehmood777@gmail.com](mailto:ahmermehmood777@gmail.com)  
+💼 Portfolio: [datascienceportfol.io/ahmermehmoodzz7](https://datascienceportfol.io/ahmermehmoodzz7)  
+🔗 LinkedIn: [linkedin.com/in/ahmermehmood7](https://www.linkedin.com/in/ahmermehmood7)  
+📂 GitHub: [github.com/ahmermehmood7](https://github.com/ahmermehmood7)  
+
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```bash
@@ -78,4 +85,5 @@ The objective of this project was to perform **Exploratory Data Analysis (EDA)**
 3.Open the Jupyter Notebook:
 ```bash
 jupyter notebook Notebook/infobyte_1.ipynb
+
 
